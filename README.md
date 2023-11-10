@@ -7,13 +7,13 @@
 
 ## About <a name = "about"></a>
 
-The purpose of this repository is to ease the computations needed in Miniexams 1 and 2 of Advanced Computer Graphics.
+The purpose of this repository is to facilitate the computations required for Miniexams 1 and 2 in the Advanced Computer Graphics course.
 
 ### Prerequisites
 
-You just need python and the following libraries: Numpy, PIL and IPython.
+You only need Python and the following libraries: NumPy, PIL, and IPython.
 
 
 ## Usage <a name = "usage"></a>
 
-Take a look at the comments inside each notebook. What I recommend is to go directly to the exercises part.
+Refer to the comments inside each notebook. I recommend going directly to the exercises section.
